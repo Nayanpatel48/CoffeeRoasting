@@ -1,5 +1,8 @@
 # **Coffee Roasting Prediction using Neural Network**
 
+Demo :
+[![Watch the video](https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg)]()
+
 This project demonstrates a **simple neural network** built from scratch in Python to predict whether a coffee roast is "Good" or "Bad" based on the **roasting temperature** and **duration**. The neural network consists of:
 
 * **1 hidden layer** with 3 neurons.
