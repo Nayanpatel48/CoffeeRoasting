@@ -98,12 +98,4 @@ Probability score: 0.8587
 
 ---
 
-## **Future Improvements:**
-
-* Use real data for training the neural network to make it more accurate.
-* Implement additional hidden layers and neurons for more complexity.
-* Use popular ML libraries (like TensorFlow or PyTorch) to improve model performance.
-
----
-
 Feel free to modify and experiment with the code! 😊 Happy coding! 🚀
